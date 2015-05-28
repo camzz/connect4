@@ -1,3 +1,3 @@
 CONNECT 4
 
-OH HI OLLY
+Camz version of the code,to mess around with
